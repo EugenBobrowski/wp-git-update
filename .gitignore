@@ -4,5 +4,7 @@ wp-content/plugins/*
 wp-content/themes/*
 !wp-content/themes/index.php
 
+wp-config.php
 
+.htaccess
 
