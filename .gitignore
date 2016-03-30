@@ -7,6 +7,8 @@ wp-content/themes/*
 wp-content/uploads/*
 !wp-content/uploads/index.php
 
+wp-content/languages/plugins
+
 wp-config.php
 
 .htaccess
